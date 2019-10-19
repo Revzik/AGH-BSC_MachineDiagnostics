@@ -17,6 +17,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Extract_to_JSON.vi" Type="VI" URL="../Extract_to_JSON.vi"/>
+		<Item Name="Extract_to_spreadsheet.vi" Type="VI" URL="../Extract_to_spreadsheet.vi"/>
 		<Item Name="Record_to_TDMS.vi" Type="VI" URL="../Record_to_TDMS.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
