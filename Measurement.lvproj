@@ -16,6 +16,7 @@
 		<Item Name="Test" Type="Folder" URL="../Test">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Calibration.vi" Type="VI" URL="../TDMS/Wiatrak-oblepianie2/0.9g/12V/Calibration.vi"/>
 		<Item Name="Diagnostics.vi" Type="VI" URL="../Diagnostics.vi"/>
 		<Item Name="Extract_to_JSON.vi" Type="VI" URL="../Extract_to_JSON.vi"/>
 		<Item Name="Extract_to_spreadsheet.vi" Type="VI" URL="../Extract_to_spreadsheet.vi"/>
